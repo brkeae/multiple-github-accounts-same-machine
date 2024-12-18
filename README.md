@@ -1,7 +1,7 @@
 # personal-multiple-github-accounts-Edited
 
 ### Pré-requisito
-- Git instalado
+- Git instalado e configurado
 
 ### Steps
 ### 1. Crie os arquivos Git de configuração
